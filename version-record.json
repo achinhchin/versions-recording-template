@@ -1,0 +1,24 @@
+{
+    "versions": {
+        "0.0": {
+            "feature": [
+            ],
+            "development version": {
+                "release": true,
+                "beta": {
+                    "0.0.b.0": [
+                        "create version record template.json"
+                    ]
+                }
+            }
+        }
+    },
+    "features": {
+        "future": {
+        },
+        "present": {
+        },
+        "past": {
+        }
+    }
+}

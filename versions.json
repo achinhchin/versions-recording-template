@@ -1,0 +1,31 @@
+{
+    "versions": {
+        "0.0": {
+            "feature": [
+                "versions-record-template"
+            ],
+            "updates": [
+                "init"
+            ],
+            "release": true,
+            "development versions": {}
+        },
+        "0.1": {
+            "feature": [
+                "versions-record-template"
+            ],
+            "updates": [
+                "add structure and add fix grammar"
+            ],
+            "release": true,
+            "development versions": {}
+        }
+    },
+    "features": {
+        "future": {},
+        "present": {
+            "versions-record-template": "0.0 -> now"
+        },
+        "past": {}
+    }
+}

@@ -1,4 +1,4 @@
-# **Versions Record Template**
+# **Versions Recording Template**
 This is template for recording details of each versions using JSON file type, when I make projects.
 Hope you can apply this template to your template.
 Hope you can use. 
@@ -8,6 +8,6 @@ Hope you can use.
 
 ---
 
-## You can see template at [version-record-template](./version-record-template.json).
+## You can see template at [version-recording-template](./version-record-template.json).
 
-## You can usage example at [my github](https://github.com/chinhchin)
+## You can see usage example at [my github](https://github.com/chinhchin)

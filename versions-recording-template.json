@@ -1,0 +1,17 @@
+{
+    "versions": {
+        "0.0": {
+            "features": [],
+            "release": false,
+            "updates": [
+                "Init"
+            ],
+            "development versions": {}
+        }
+    },
+    "features": {
+        "future": {},
+        "present": {},
+        "past": {}
+    }
+}

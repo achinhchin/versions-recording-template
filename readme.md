@@ -8,6 +8,6 @@ Hope you can use.
 
 ---
 
-## You can see template at [version-recording-template](./version-record-template.json).
+## You can see template at [versions-recording-template](./versions-recording-template.json).
 
 ## You can see usage example at [my github](https://github.com/chinhchin)

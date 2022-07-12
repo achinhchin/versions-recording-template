@@ -29,6 +29,16 @@
             ],
             "release": true,
             "development versions": {}
+        },
+        "0.3": {
+            "features": [
+                "versions-recording-template"
+            ],
+            "updates": [
+                "fix link not work"
+            ],
+            "release": true,
+            "development versions": {}
         }
     },
     "features": {
